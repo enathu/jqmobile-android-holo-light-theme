@@ -3,7 +3,7 @@ A JQuery Mobile theme inspired by Holo Light for Android 4.0
 
 This is my attempt to create a custom JQuery Mobile theme, that matches the Holo Light theme which make Android 4.0, an awesome ice cream sandwich. :) 
 
-The styles are based on http://developer.android.com/design/style/index.html
+The styles are based on [Android Design's Style Guide][android]
 
 Preview
 -----------
@@ -24,8 +24,20 @@ Here is the code that make this awesome android make over in your HTML file.
 Demo
 -----
 
-Live demo is right here: http://dl.dropbox.com/u/3875067/holo-light/index.html
+Live demo is right here: http://files.niram.org/holo-light/index.html
 (Make sure you resize the window to see it in action on desktop.)
 
 Alternatively, you can scan this QR code by your smartphone and see it action right in your awesome phone.
 ![Demo URL in QR code](https://github.com/enathu/jqmobile-android-holo-light-theme/raw/master/qrcode.png "Demo URL in QR code")
+
+
+License
+-------
+
+Copyright 2012, Tharique Azeez  
+Dual licensed under the [MIT][mit] or [GPL Version 2][gpl2]
+licenses.
+
+[android]: http://developer.android.com/design/style/index.html
+[mit]: http://opensource.org/licenses/mit-license.php
+[gpl2]: http://opensource.org/licenses/gpl-2.0.php
