@@ -21,3 +21,11 @@ Here is the code that make this awesome android make over in your HTML file.
 		<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
 
+Demo
+-----
+
+Live demo is right here: http://dl.dropbox.com/u/3875067/holo-light/index.html
+(Make sure you resize the window to see it in action on desktop.)
+
+Alternatively, you can scan this QR code by your smartphone and see it action right in your awesome phone.
+![Demo URL in QR code](https://github.com/enathu/jqmobile-android-holo-light-theme/raw/master/qrcode.png "Demo URL in QR code")
