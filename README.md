@@ -1,7 +1,7 @@
-A JQuery Mobile theme inspired by Holo Light for Android 4.0
+A jQuery Mobile theme inspired by Holo Light for Android 4.0
 -------------------------------------------------------------
 
-This is my attempt to create a custom JQuery Mobile theme, that matches the Holo Light theme which make Android 4.0, an awesome ice cream sandwich. :) 
+This is my attempt to create a custom jQuery Mobile theme, that matches the Holo Light theme which make Android 4.0, an awesome ice cream sandwich. :) 
 
 The styles are based on [Android Design's Style Guide][android]
 
@@ -14,7 +14,7 @@ Usage
 * Download the source from here. 
 * Reference it on your HTML file and Voila!
 
-Here is the code that make this awesome android make over in your HTML file.
+Here is the code that make this awesome android makeover in your HTML file.
 
 		<link rel="stylesheet" href="themes/android-holo-light.min.css" />
 		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile.structure-1.1.0.min.css" />
