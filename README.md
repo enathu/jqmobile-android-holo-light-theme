@@ -11,3 +11,12 @@ Preview
 
 Usage
 -----------
+* Download the source from here. 
+* Reference it on your HTML file and Voila!
+
+Here is the code that make this awesome android make over in your HTML file.
+
+		`<link rel="stylesheet" href="themes/android-holo-light.min.css" />
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile.structure-1.1.0.min.css" />
+		<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>` 
