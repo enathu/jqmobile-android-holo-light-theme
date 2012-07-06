@@ -24,7 +24,7 @@ Here is the code that make this awesome android makeover in your HTML file.
 Demo
 -----
 
-Live demo is right here: http://files.niram.org/holo-light/index.html
+Live demo is right here: [Yes, it's right here][demo]
 (Make sure you resize the window to see it in action on desktop.)
 
 Alternatively, you can scan this QR code by your smartphone and see it action right in your awesome phone.
@@ -39,5 +39,6 @@ Dual licensed under the [MIT][mit] or [GPL Version 2][gpl2]
 licenses.
 
 [android]: http://developer.android.com/design/style/index.html
+[demo]: http://files.niram.org/holo-light/index.html
 [mit]: http://opensource.org/licenses/mit-license.php
 [gpl2]: http://opensource.org/licenses/gpl-2.0.php
