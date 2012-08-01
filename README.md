@@ -11,7 +11,7 @@ Preview
 
 Usage
 -----------
-* Download the source from [here][dl]. 
+* Download latest source from [here][dl]. 
 * Reference it on your HTML file and Voila!
 
 Here is the code that make this awesome android makeover in your HTML file.
