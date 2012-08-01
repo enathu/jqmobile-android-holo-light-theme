@@ -11,7 +11,7 @@ Preview
 
 Usage
 -----------
-* Download the source from here. 
+* Download the source from [here][dl]. 
 * Reference it on your HTML file and Voila!
 
 Here is the code that make this awesome android makeover in your HTML file.
@@ -39,6 +39,7 @@ Dual licensed under the [MIT][mit] or [GPL Version 2][gpl2]
 licenses.
 
 [android]: http://developer.android.com/design/style/index.html
+[dl]: https://github.com/downloads/enathu/jqmobile-android-holo-light-theme/jqmobile-holo-light-theme-android-0.1.7.zip
 [demo]: http://files.niram.org/holo-light/index.html
 [mit]: http://opensource.org/licenses/mit-license.php
 [gpl2]: http://opensource.org/licenses/gpl-2.0.php
