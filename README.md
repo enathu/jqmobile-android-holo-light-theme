@@ -28,6 +28,7 @@ Live demo is right here: [Yes, it's right here][demo]
 (Make sure you resize the window to see it in action on desktop.)
 
 Alternatively, you can scan this QR code by your smartphone and see it action right in your awesome phone.
+
 ![Demo URL in QR code](https://github.com/enathu/jqmobile-android-holo-light-theme/raw/master/qrcode.png "Demo URL in QR code")
 
 
