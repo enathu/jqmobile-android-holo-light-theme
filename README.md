@@ -36,11 +36,9 @@ License
 -------
 
 Copyright 2012, Tharique Azeez  
-Dual licensed under the [MIT][mit] or [GPL Version 2][gpl2]
-licenses.
+Dual licensed under the [MIT][mit] licenses
 
 [android]: http://developer.android.com/design/style/index.html
 [dl]: https://github.com/enathu/jqmobile-android-holo-light-theme/archive/v0.1.8.zip
 [demo]: http://files.niram.org/holo-light/index.html
 [mit]: http://opensource.org/licenses/mit-license.php
-[gpl2]: http://opensource.org/licenses/gpl-2.0.php
